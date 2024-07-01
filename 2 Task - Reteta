@@ -1,0 +1,61 @@
+<!doctype html>
+<html>
+	<head>
+		<title>Pasta carbonara</title>
+		<meta charset="utf-8">
+	</head>
+	<body>
+		<main>
+			<h1>Pasta carbonara</h1>
+			<img src="C:\Users\furdui_ale\Desktop\Carbonara.jpg" alt="Pasta carbonara">
+			<p class="highlight">Vrei sa te bucuri de gustul autentic italian de paste Carbonara? Atunci e musai sa le prepari dupa reteta originala! <br>4 ingrediente principale sunt TOT ce ai nevoie pentru pastele Carbonara, iar smantana NU este unul dintre ingrediente. Si totusi, pastele ies super-cremoase!</p>
+			<h2>Ingrediente</h2>
+			<ul>
+				<li>400 g spaghete</li>
+				<li>200 g guanciale (alternativ pancetta/bacon)</li>
+				<li>4 galbenusuri</li>
+				<li>+75 g branza pecorino</li>
+				<li>sare</li>
+				<li>piper</li>
+			</ul>
+			<ol>
+				<li>Pune apa la fiert intr-o cratita incapatoare, cu o lingurita de sare. Cand apa incepe sa fiarba, pune si pastele la fiert pentru 4-5 minute.</li>
+				<li>In rastimp insa, pana sa fiarba apa, taie guanciale cubulete (daca ai acces la acest tip de preparat, daca nu pancetta sau bacon).</li>
+				<li>Bate galbenusurile cu 40-50 g de branza pecorino (din nou, ideal. Daca nu gasesti, poti folosi si parmezan). Frige baconul in tigaie fara ulei, pana cand devine crocant si grasimea se topeste.</li>
+				<li>Cand pastele au fiert 4-5 minute, scoate-le cu un cleste si pune-le direct peste bacon. Agita pastele putin pentru un minut, apoi adauga ~o cana de apa de la paste.</li>
+				<li>Lasa pastele carbonara sa se raceasca un minut, apoi adauga amestecul de galbenusuri si branza, amestecand energic pentru a evita coagularea galbenusurilor.</li>
+				<li>Pune pastele la foc pentru inca 30-60 secunde, apoi serveste fiecare portie de paste carbonara cu putina branza pecorino rasa deasupra si putin piper proaspat macinat.</li>
+			</ol>
+			<a href="https://www.bbcgoodfood.com/recipes/ultimate-spaghetti-carbonara-recipe">Vezi video-reteta aici</a>
+			<form>
+				<h3>Scriemi ceva</h3>	
+				<table>
+					<tr>
+						<td><input>Numele</input></td>
+					</tr>
+					<tr>
+						<input>Scrie aici</input>
+					</tr>				
+					<tr>
+						<td><button>Send</button></td>
+					</tr>
+				</table>
+			</form>
+			<h3>Valoare nutritiva</h3>
+			<table>
+				<tr>
+					<td>Glucide</td>
+					<td>Proteine</td>
+					<td>Kilo calorii</td>
+				</tr>
+				<tr>
+					<td>100</td>
+					<td>20</td>
+					<td>350</td>
+				</tr>
+			</table>
+		</main>	
+		<footer>
+			<button><a href="https://www.bbcgoodfood.com/recipes/ultimate-spaghetti-carbonara-recipe">Vezi video-reteta aici</a></button>	
+	</body>
+</html>
